@@ -21,7 +21,7 @@
      */
 }
 .logo{
-    background-image: url("2.1.png");
+    background-image: url("l1.png");
     height: 50px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -241,7 +241,7 @@ ul p{
     align-items: center;
 }
 .logo2{
-    background-image: url("2.1.png");
+    background-image: url("l1.png");
     height: 50px;
     background-size: contain;
     background-repeat: no-repeat;
